@@ -2,8 +2,6 @@
 
 A stunning Apple-inspired portfolio website featuring liquid glass UI aesthetics, smooth animations, and a premium design language.
 
-![Portfolio Preview](preview.png)
-
 ## ✨ Features
 
 - **Liquid Glass UI** - Frosted glass effects with backdrop blur
